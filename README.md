@@ -1,0 +1,2 @@
+# django_blog_templates
+采用Django框架搭建的基于Next主题的个人博客前端模板
